@@ -1,1 +1,3 @@
 # web-sc
+
+A junk and testing place for my coding...
